@@ -1,6 +1,6 @@
 {
   "name": "pandora-utilities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "It is like a Pandora Box, many utilities for you node application.",
   "main": "index.coffee",
   "scripts": {
